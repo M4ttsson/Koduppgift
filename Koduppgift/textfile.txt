@@ -1,0 +1,7 @@
+﻿Sjuksköterska|2|20000|26000
+Sjuksköterska|4|20000|32000
+Sjuksköterska|6|20000|38000
+Busschaufför|4|20000|24000
+Busschaufför|2|20000|22000
+Städare|10|20000|25000
+Städare|5|20000|24000
